@@ -1,6 +1,10 @@
 # Simple Chatbot 📱🤖
 A python based simple chat bot application 
 
+# Tech Stacks 👨‍💻
+- Python
+- Library - Tkinter
+
 # Image Results 😎
 <img src="Output images/OP1.png" width="500px" alt="output">
 
@@ -31,3 +35,6 @@ $git commit -m  <message>
 $git push origin master
 ```
 Thats all about installation and version control with **Git**
+
+# Developer ❤😎
+[Ashwin Kumar Ramaswamy](https://github.com/Ash515)
