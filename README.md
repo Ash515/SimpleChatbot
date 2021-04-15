@@ -1,6 +1,9 @@
 # Simple Chatbot
 A python based simple chat bot application 
 
+# Image Results
+<img src="Outut images/OP1.png" width="500px" alt="output">
+
 # 🚀&nbsp;Installation 
 1. Clone the repository 
 ```
