@@ -11,7 +11,7 @@ A python based simple chat bot application
 # 🚀&nbsp;Installation 📥
 1. Clone the repository 
 ```
-https://github.com/Ash515/Simple-Chatbot.git
+https://github.com/Ash515/SimpleChatbot.git
 ```
 2. Check the status of your file 
 ```
